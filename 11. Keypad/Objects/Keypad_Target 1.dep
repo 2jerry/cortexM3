@@ -1,0 +1,16 @@
+Dependencies for Project 'Keypad', Target 'Target 1': (DO NOT MODIFY !)
+F (.\ARM_CortexM3_Keypad.c)(0x5A44C30C)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\ESDL\lpcopen_2_10_keil_iar_ea_devkit_1788\software\CMSIS\CMSIS\Include-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -D_RTE_ -DLPC175x_6x-o .\objects\arm_cortexm3_keypad.o --omf_browse .\objects\arm_cortexm3_keypad.crf --depend .\objects\arm_cortexm3_keypad.d)
+I (gpio.h)(0x5A44A9C8)
+I (led_.h)(0x5987FC54)
+I (fnd_.h)(0x5A44C324)
+F (.\fnd_.h)(0x5A44C324)()
+F (.\gpio.h)(0x5A44A9C8)()
+F (.\led_.h)(0x5987FC54)()
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x5848CF12)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x5848CF12)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\ESDL\lpcopen_2_10_keil_iar_ea_devkit_1788\software\CMSIS\CMSIS\Include-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -D_RTE_ -DLPC175x_6x-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B7534)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include\LPC17xx.h)(0x5848CF12)
+I (..\..\ESDL\lpcopen_2_10_keil_iar_ea_devkit_1788\software\CMSIS\CMSIS\Include\core_cm3.h)(0x52F2D0A8)
+I (..\..\ESDL\lpcopen_2_10_keil_iar_ea_devkit_1788\software\CMSIS\CMSIS\Include\core_cmInstr.h)(0x52F2D0A8)
+I (..\..\ESDL\lpcopen_2_10_keil_iar_ea_devkit_1788\software\CMSIS\CMSIS\Include\core_cmFunc.h)(0x52F2D0A8)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include\system_LPC17xx.h)(0x5848CF12)

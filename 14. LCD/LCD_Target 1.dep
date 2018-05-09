@@ -1,0 +1,5 @@
+Dependencies for Project 'LCD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\lcd.c)(0x598D64BA)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DLPC175x_6x-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+F (.\lcd1.c)(0x598D0FEE)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DLPC175x_6x-o .\lcd1.o --omf_browse .\lcd1.crf --depend .\lcd1.d)
+F (.\lcd2.c)(0x598D1518)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DLPC175x_6x-o .\lcd2.o --omf_browse .\lcd2.crf --depend .\lcd2.d)
+F (.\lcd.h)(0x598D64B2)()

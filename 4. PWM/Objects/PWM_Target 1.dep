@@ -1,0 +1,19 @@
+Dependencies for Project 'PWM', Target 'Target 1': (DO NOT MODIFY !)
+F (.\PWM1.c)(0x59799904)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\objects\pwm1.o --omf_browse .\objects\pwm1.crf --depend .\objects\pwm1.d)
+I (gpio_jy.h)(0x5977FD12)
+F (.\PWM2.c)(0x5979D24C)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\objects\pwm2.o --omf_browse .\objects\pwm2.crf --depend .\objects\pwm2.d)
+I (gpio_jy.h)(0x5977FD12)
+I (interrupt_jy.h)(0x5977FDB6)
+F (.\MCPWM1.c)(0x597ACE2A)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\objects\mcpwm1.o --omf_browse .\objects\mcpwm1.crf --depend .\objects\mcpwm1.d)
+I (gpio_jy.h)(0x5977FD12)
+F (.\PWM_EX1.c)(0x597AD5FA)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\objects\pwm_ex1.o --omf_browse .\objects\pwm_ex1.crf --depend .\objects\pwm_ex1.d)
+I (gpio_jy.h)(0x597AD2D8)
+I (interrupt_jy.h)(0x5977FDB6)
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x5848CF12)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x5848CF12)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F5F8A8)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include\LPC17xx.h)(0x5848CF12)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559CCF7A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559CCF7A)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559CCF7A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include\system_LPC17xx.h)(0x5848CF12)
